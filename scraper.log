@@ -1,0 +1,498 @@
+2025-11-18 16:49:21,728 - INFO - Loaded 91 proxies
+2025-11-18 16:49:59,766 - WARNING - No working proxy found
+2025-11-18 16:49:59,767 - WARNING - No proxy available, continuing without proxy
+2025-11-18 16:50:26,551 - INFO - 
+=== Checking IP Address ===
+2025-11-18 16:50:29,521 - INFO - Current IP info: {
+  "origin": "134.28.180.218"
+}
+2025-11-18 16:50:29,521 - INFO - 
+==================================================
+2025-11-18 16:50:29,521 - INFO - Starting scraping for Berlin
+2025-11-18 16:50:29,521 - INFO - ==================================================
+
+2025-11-18 16:50:29,522 - INFO - Searching: restaurant in Berlin, Germany
+2025-11-18 16:50:36,710 - INFO - Scrolling through results...
+2025-11-18 16:50:38,870 - INFO - Scroll 1/5 completed
+2025-11-18 16:50:42,549 - INFO - Scroll 2/5 completed
+2025-11-18 16:50:46,280 - INFO - Scroll 3/5 completed
+2025-11-18 16:50:49,840 - INFO - Scroll 4/5 completed
+2025-11-18 16:50:53,168 - INFO - Scroll 5/5 completed
+2025-11-18 16:50:53,184 - INFO - Found 36 places for 'restaurant' in Berlin
+2025-11-18 16:50:53,184 - INFO - Processing 1/20
+2025-11-18 16:50:56,795 - INFO - Extracted: Meliá Berlin
+2025-11-18 16:51:00,791 - INFO - Processing 2/20
+2025-11-18 16:51:06,989 - INFO - Extracted: Ristorante A MANO
+2025-11-18 16:51:07,440 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/24972849c31ac4de57919cfc635e5ed3
+2025-11-18 16:51:11,545 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B2E225AE90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/24972849c31ac4de57919cfc635e5ed3
+2025-11-18 16:51:39,396 - INFO - Loaded 91 proxies
+2025-11-18 16:52:22,878 - WARNING - No working proxy found
+2025-11-18 16:52:22,879 - WARNING - No proxy available, continuing without proxy
+2025-11-18 16:52:24,138 - INFO - 
+=== Checking IP Address ===
+2025-11-18 16:52:26,687 - INFO - Current IP info: {
+  "origin": "134.28.180.218"
+}
+2025-11-18 16:52:26,687 - INFO - 
+==================================================
+2025-11-18 16:52:26,687 - INFO - Starting scraping for Hamburg
+2025-11-18 16:52:26,688 - INFO - ==================================================
+
+2025-11-18 16:52:26,688 - INFO - Searching: restaurant in Hamburg, Germany
+2025-11-18 16:52:31,358 - INFO - Scrolling through results...
+2025-11-18 16:52:33,804 - INFO - Scroll 1/5 completed
+2025-11-18 16:52:37,102 - INFO - Scroll 2/5 completed
+2025-11-18 16:52:39,690 - INFO - Scroll 3/5 completed
+2025-11-18 16:52:41,867 - INFO - Scroll 4/5 completed
+2025-11-18 16:52:43,920 - INFO - Reached end of results
+2025-11-18 16:52:43,965 - INFO - Found 29 places for 'restaurant' in Hamburg
+2025-11-18 16:52:43,965 - INFO - Processing 1/20
+2025-11-18 16:52:48,332 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:52:51,445 - INFO - Processing 2/20
+2025-11-18 16:52:57,349 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:52:59,527 - INFO - Processing 3/20
+2025-11-18 16:53:04,929 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:53:08,717 - INFO - Processing 4/20
+2025-11-18 16:53:14,144 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:53:16,960 - INFO - Processing 5/20
+2025-11-18 16:53:21,737 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:53:24,043 - INFO - Processing 6/20
+2025-11-18 16:53:29,341 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:53:32,103 - INFO - Processing 7/20
+2025-11-18 16:53:36,041 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:53:40,008 - INFO - Processing 8/20
+2025-11-18 16:53:45,767 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:53:48,895 - INFO - Processing 9/20
+2025-11-18 16:53:54,628 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:53:57,834 - INFO - Processing 10/20
+2025-11-18 16:54:02,349 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 16:54:05,327 - INFO - Processing 11/20
+2025-11-18 16:54:11,327 - INFO - Extracted: Yemen Restaurant
+2025-11-18 16:54:15,189 - INFO - Processing 12/20
+2025-11-18 16:54:19,245 - INFO - Extracted: Erdapfel Hamburg
+2025-11-18 16:54:21,931 - INFO - Processing 13/20
+2025-11-18 16:54:25,359 - INFO - Extracted: Erdapfel Hamburg
+2025-11-18 16:54:28,201 - INFO - Processing 14/20
+2025-11-18 16:54:31,109 - INFO - Extracted: Deichgraf Restaurant
+2025-11-18 16:54:34,706 - INFO - Processing 15/20
+2025-11-18 16:54:37,836 - INFO - Extracted: Jawa Restaurant - Traditional Indonesian Food
+2025-11-18 16:54:41,819 - INFO - Processing 16/20
+2025-11-18 16:54:45,784 - INFO - Extracted: NAGEL Restaurant und Kneipe in Hamburg
+2025-11-18 16:54:49,018 - INFO - Processing 17/20
+2025-11-18 16:54:53,423 - INFO - Extracted: Restaurant Teheran
+2025-11-18 16:54:55,913 - INFO - Processing 18/20
+2025-11-18 16:54:59,335 - INFO - Extracted: Jawa Restaurant - Traditional Indonesian Food
+2025-11-18 16:55:02,178 - INFO - Processing 19/20
+2025-11-18 16:55:04,852 - INFO - Extracted: NAGEL Restaurant und Kneipe in Hamburg
+2025-11-18 16:55:07,664 - INFO - Processing 20/20
+2025-11-18 16:55:11,533 - INFO - Extracted: Restaurante Picasso
+2025-11-18 16:55:14,180 - INFO - Searching: cafe in Hamburg, Germany
+2025-11-18 16:55:19,627 - INFO - Scrolling through results...
+2025-11-18 16:55:23,353 - INFO - Reached end of results
+2025-11-18 16:55:23,363 - INFO - Found 29 places for 'cafe' in Hamburg
+2025-11-18 16:55:23,363 - INFO - Processing 1/20
+2025-11-18 16:55:29,363 - INFO - Extracted: Nespresso N-Point im Media Markt
+2025-11-18 16:55:32,904 - INFO - Processing 2/20
+2025-11-18 16:55:35,703 - INFO - Extracted: Café ZessP
+2025-11-18 16:55:38,608 - INFO - Processing 3/20
+2025-11-18 16:55:39,686 - ERROR - Error extracting place data: Message: element click intercepted: Element <a class="hfpxzc" aria-label="Café ZessP" href="https://www.google.com/maps/place/Caf%C3%A9+ZessP/data=!4m7!3m6!1s0x47b1913d2b22e975:0x926322280ccb3932!8m2!3d53.4630511!4d9.9706239!16s%2Fg%2F11s0gpj5n_!19sChIJdekiKz2RsUcRMjnLDCgiY5I?authuser=0&amp;hl=de&amp;rclk=1" jsaction="pane.wfvdle17;focus:pane.wfvdle17;blur:pane.wfvdle17;auxclick:pane.wfvdle17;keydown:pane.wfvdle17;clickmod:pane.wfvdle17" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3aWg5X3pEZ1AyUUF4WGRRdkVESGVBQU1QZ1E4QmNJUGlnSyIsbnVsbCwwXQ=="></a> is not clickable at point (201, 82). Other element would receive the click: <div class="m6QErb DxyBCb kA9KIf dS8AEf XiKgde ecceSd QjC7t" aria-label="Ergebnisse für cafe in Hamburg, Germany" role="feed" tabindex="-1" style="">...</div>
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6885aa235
+	0x7ff688302630
+	0x7ff6880916dd
+	0x7ff6880f24c9
+	0x7ff6880efe4e
+	0x7ff6880ecd71
+	0x7ff6880ebc10
+	0x7ff6880dd3a8
+	0x7ff688112b0a
+	0x7ff6880dcc36
+	0x7ff68813baba
+	0x7ff6880db0ed
+	0x7ff6880dbf63
+	0x7ff6885d5d60
+	0x7ff6885cfe8a
+	0x7ff6885f1005
+	0x7ff68831d71e
+	0x7ff688324e1f
+	0x7ff68830b7c4
+	0x7ff68830b97f
+	0x7ff6882f18e8
+	0x7ffce394e8d7
+	0x7ffce4b4c53c
+
+2025-11-18 16:55:42,779 - INFO - Processing 4/20
+2025-11-18 16:55:46,434 - INFO - Extracted: Mili’s Cafe
+2025-11-18 16:55:50,024 - INFO - Processing 5/20
+2025-11-18 16:55:53,394 - INFO - Extracted: Café Bom Dia
+2025-11-18 16:55:57,286 - INFO - Processing 6/20
+2025-11-18 16:56:01,605 - INFO - Extracted: None
+2025-11-18 16:56:05,298 - INFO - Processing 7/20
+2025-11-18 16:56:07,812 - INFO - Extracted: Mili’s Cafe
+2025-11-18 16:56:10,911 - INFO - Processing 8/20
+2025-11-18 16:56:14,734 - INFO - Extracted: Maria Café
+2025-11-18 16:56:17,775 - INFO - Processing 9/20
+2025-11-18 16:56:21,138 - INFO - Extracted: Mili’s Cafe
+2025-11-18 16:56:23,604 - INFO - Processing 10/20
+2025-11-18 16:56:26,898 - INFO - Extracted: Entenwerder1
+2025-11-18 16:56:30,568 - INFO - Processing 11/20
+2025-11-18 16:56:34,843 - INFO - Extracted: Café insgrüne Harburg
+2025-11-18 16:56:38,023 - INFO - Processing 12/20
+2025-11-18 16:56:40,840 - INFO - Extracted: Cafe Miller
+2025-11-18 16:56:43,766 - INFO - Processing 13/20
+2025-11-18 16:56:51,642 - INFO - Extracted: Entenwerder1
+2025-11-18 16:56:55,236 - INFO - Processing 14/20
+2025-11-18 16:57:03,509 - INFO - Extracted: Entenwerder1
+2025-11-18 16:57:06,337 - INFO - Processing 15/20
+2025-11-18 16:57:09,567 - INFO - Extracted: Cafe Miller
+2025-11-18 16:57:12,660 - INFO - Processing 16/20
+2025-11-18 16:57:16,133 - INFO - Extracted: Café Paris
+2025-11-18 16:57:19,447 - INFO - Processing 17/20
+2025-11-18 16:57:23,635 - INFO - Extracted: Café Paris
+2025-11-18 16:57:27,252 - INFO - Processing 18/20
+2025-11-18 16:57:30,172 - INFO - Extracted: Café Gnosa
+2025-11-18 16:57:33,279 - INFO - Processing 19/20
+2025-11-18 16:57:34,672 - ERROR - Error extracting place data: Message: element click intercepted: Element <a class="hfpxzc" aria-label="Café Johanna-Hamburg" href="https://www.google.com/maps/place/Caf%C3%A9+Johanna-Hamburg/data=!4m7!3m6!1s0x47b18f0dc2c13a15:0x8c8abcb8c5e3f56d!8m2!3d53.547073!4d9.975047!16s%2Fg%2F1tf01jjq!19sChIJFTrBwg2PsUcRbfXjxbi8iow?authuser=0&amp;hl=de&amp;rclk=1" jsaction="pane.wfvdle91;focus:pane.wfvdle91;blur:pane.wfvdle91;auxclick:pane.wfvdle91;keydown:pane.wfvdle91;clickmod:pane.wfvdle91" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3aWg5X3pEZ1AyUUF4WGRRdkVESGVBQU1QZ1E4QmNJaVFjb0hBIixudWxsLDE4XQ=="></a> is not clickable at point (201, 84). Other element would receive the click: <div class="m6QErb DxyBCb kA9KIf dS8AEf XiKgde ecceSd QjC7t" aria-label="Ergebnisse für cafe in Hamburg, Germany" role="feed" tabindex="-1" style="">...</div>
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6885aa235
+	0x7ff688302630
+	0x7ff6880916dd
+	0x7ff6880f24c9
+	0x7ff6880efe4e
+	0x7ff6880ecd71
+	0x7ff6880ebc10
+	0x7ff6880dd77f
+	0x7ff688112b0a
+	0x7ff6880dcc36
+	0x7ff68813baba
+	0x7ff6880db0ed
+	0x7ff6880dbf63
+	0x7ff6885d5d60
+	0x7ff6885cfe8a
+	0x7ff6885f1005
+	0x7ff68831d71e
+	0x7ff688324e1f
+	0x7ff68830b7c4
+	0x7ff68830b97f
+	0x7ff6882f18e8
+	0x7ffce394e8d7
+	0x7ffce4b4c53c
+
+2025-11-18 16:57:37,675 - INFO - Processing 20/20
+2025-11-18 16:57:41,600 - INFO - Extracted: The Coffee Box
+2025-11-18 16:57:44,428 - INFO - Searching: food in Hamburg, Germany
+2025-11-18 16:57:48,831 - INFO - Scrolling through results...
+2025-11-18 16:57:51,968 - INFO - Scroll 1/5 completed
+2025-11-18 16:57:55,671 - INFO - Scroll 2/5 completed
+2025-11-18 16:57:58,232 - INFO - Scroll 3/5 completed
+2025-11-18 16:58:02,029 - INFO - Scroll 4/5 completed
+2025-11-18 16:58:04,591 - INFO - Scroll 5/5 completed
+2025-11-18 16:58:04,608 - INFO - Found 58 places for 'food' in Hamburg
+2025-11-18 16:58:04,608 - INFO - Processing 1/20
+2025-11-18 16:58:10,613 - INFO - Extracted: Frau Möller
+2025-11-18 16:58:14,048 - INFO - Processing 2/20
+2025-11-18 16:58:21,113 - INFO - Extracted: Frau Möller
+2025-11-18 16:58:23,413 - INFO - Processing 3/20
+2025-11-18 16:58:30,193 - INFO - Extracted: Frau Möller
+2025-11-18 16:58:33,283 - INFO - Processing 4/20
+2025-11-18 16:58:37,590 - INFO - Extracted: Gasthaus Heimathafen
+2025-11-18 16:58:39,928 - INFO - Processing 5/20
+2025-11-18 16:58:44,549 - INFO - Extracted: bigbitegyros
+2025-11-18 16:58:47,642 - INFO - Processing 6/20
+2025-11-18 16:58:55,189 - INFO - Extracted: Schifferbörse Restaurant
+2025-11-18 16:58:58,678 - INFO - Processing 7/20
+2025-11-18 16:59:06,728 - INFO - Extracted: Schifferbörse Restaurant
+2025-11-18 16:59:09,934 - INFO - Processing 8/20
+2025-11-18 16:59:15,774 - INFO - Extracted: Schifferbörse Restaurant
+2025-11-18 16:59:19,280 - INFO - Processing 9/20
+2025-11-18 16:59:23,868 - INFO - Extracted: Restaurant Krameramtsstuben
+2025-11-18 16:59:25,959 - INFO - Processing 10/20
+2025-11-18 16:59:30,527 - INFO - Extracted: Restaurant Im Sprinkenhof
+2025-11-18 16:59:33,758 - INFO - Processing 11/20
+2025-11-18 16:59:37,359 - INFO - Extracted: Restaurant Das Dorf – Deutsche Küche in Hamburg St. Georg
+2025-11-18 16:59:39,605 - INFO - Processing 12/20
+2025-11-18 16:59:42,838 - INFO - Extracted: Restaurant Scharf
+2025-11-18 16:59:45,236 - INFO - Processing 13/20
+2025-11-18 16:59:48,053 - INFO - Extracted: Lavas Hamburg
+2025-11-18 16:59:50,521 - INFO - Processing 14/20
+2025-11-18 16:59:53,359 - INFO - Extracted: Viet No1 Restaurant
+2025-11-18 16:59:56,163 - INFO - Processing 15/20
+2025-11-18 16:59:59,782 - INFO - Extracted: Erdapfel Hamburg
+2025-11-18 17:00:02,667 - INFO - Processing 16/20
+2025-11-18 17:00:06,936 - INFO - Extracted: Old Commercial Room
+2025-11-18 17:00:09,657 - INFO - Processing 17/20
+2025-11-18 17:00:10,734 - ERROR - Error extracting place data: Message: element click intercepted: Element <a class="hfpxzc" aria-label="Alhayba Grillhaus" href="https://www.google.com/maps/place/Alhayba+Grillhaus/data=!4m7!3m6!1s0x47b1919b4541ea55:0x8f9055af79564d0a!8m2!3d53.4604454!4d9.9802808!16s%2Fg%2F11tch3p_jw!19sChIJVepBRZuRsUcRCk1Wea9VkI8?authuser=0&amp;hl=de&amp;rclk=1" jsaction="pane.wfvdle91;focus:pane.wfvdle91;blur:pane.wfvdle91;auxclick:pane.wfvdle91;keydown:pane.wfvdle91;clickmod:pane.wfvdle91" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3ak85czJMZ2YyUUF4V09TX0VESGFySkRfNFE4QmNJcmdjb0hBIixudWxsLDE2XQ=="></a> is not clickable at point (201, 841). Other element would receive the click: <button class="e2moi" jsaction="pane.wfvdle47; keydown:pane.wfvdle47; mouseover:pane.wfvdle47; mouseout:pane.wfvdle47;keydown:ripple.nested;mousedown:ripple.nested;ptrdown:ripple.nested" jslog="133106; track:click;">...</button>
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6885aa235
+	0x7ff688302630
+	0x7ff6880916dd
+	0x7ff6880f24c9
+	0x7ff6880efe4e
+	0x7ff6880ecd71
+	0x7ff6880ebc10
+	0x7ff6880dd3a8
+	0x7ff688112b0a
+	0x7ff6880dcc36
+	0x7ff68813baba
+	0x7ff6880db0ed
+	0x7ff6880dbf63
+	0x7ff6885d5d60
+	0x7ff6885cfe8a
+	0x7ff6885f1005
+	0x7ff68831d71e
+	0x7ff688324e1f
+	0x7ff68830b7c4
+	0x7ff68830b97f
+	0x7ff6882f18e8
+	0x7ffce394e8d7
+	0x7ffce4b4c53c
+
+2025-11-18 17:00:13,719 - INFO - Processing 18/20
+2025-11-18 17:00:19,903 - INFO - Processing 19/20
+2025-11-18 17:00:21,019 - ERROR - Error extracting place data: Message: element click intercepted: Element <a class="hfpxzc" aria-label="Alt Helgoländer Fischerstube" href="https://www.google.com/maps/place/Alt+Helgol%C3%A4nder+Fischerstube/data=!4m7!3m6!1s0x47b18f70a814a093:0xed721af84446f822!8m2!3d53.545842!4d9.953073!16s%2Fg%2F1v2yxybz!19sChIJk6AUqHCPsUcRIvhGRPgacu0?authuser=0&amp;hl=de&amp;rclk=1" jsaction="pane.wfvdle99;focus:pane.wfvdle99;blur:pane.wfvdle99;auxclick:pane.wfvdle99;keydown:pane.wfvdle99;clickmod:pane.wfvdle99" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3ak85czJMZ2YyUUF4V09TX0VESGFySkRfNFE4QmNJamdnb0hnIixudWxsLDE4XQ=="></a> is not clickable at point (201, 842). Other element would receive the click: <button class="e2moi" jsaction="pane.wfvdle47; keydown:pane.wfvdle47; mouseover:pane.wfvdle47; mouseout:pane.wfvdle47;keydown:ripple.nested;mousedown:ripple.nested;ptrdown:ripple.nested" jslog="133106; track:click;">...</button>
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6885aa235
+	0x7ff688302630
+	0x7ff6880916dd
+	0x7ff6880f24c9
+	0x7ff6880efe4e
+	0x7ff6880ecd71
+	0x7ff6880ebc10
+	0x7ff6880dd3a8
+	0x7ff688112b0a
+	0x7ff6880dcc36
+	0x7ff68813baba
+	0x7ff6880db0ed
+	0x7ff6880dbf63
+	0x7ff6885d5d60
+	0x7ff6885cfe8a
+	0x7ff6885f1005
+	0x7ff68831d71e
+	0x7ff688324e1f
+	0x7ff68830b7c4
+	0x7ff68830b97f
+	0x7ff6882f18e8
+	0x7ffce394e8d7
+	0x7ffce4b4c53c
+
+2025-11-18 17:00:24,377 - INFO - Processing 20/20
+2025-11-18 17:00:27,781 - INFO - Extracted: Gassenhaur Restaurant & Beisl
+2025-11-18 17:00:31,268 - INFO - Searching: bistro in Hamburg, Germany
+2025-11-18 17:00:37,080 - INFO - Scrolling through results...
+2025-11-18 17:00:39,638 - INFO - Scroll 1/5 completed
+2025-11-18 17:00:42,128 - INFO - Scroll 2/5 completed
+2025-11-18 17:00:46,000 - INFO - Scroll 3/5 completed
+2025-11-18 17:00:48,082 - INFO - Scroll 4/5 completed
+2025-11-18 17:00:51,195 - INFO - Scroll 5/5 completed
+2025-11-18 17:00:51,214 - INFO - Found 43 places for 'bistro' in Hamburg
+2025-11-18 17:00:51,214 - INFO - Processing 1/20
+2025-11-18 17:00:55,307 - INFO - Extracted: The Magic Table - Hamburg
+2025-11-18 17:00:59,133 - INFO - Processing 2/20
+2025-11-18 17:01:02,853 - INFO - Extracted: Gastwerk Hotel Hamburg
+2025-11-18 17:01:05,202 - INFO - Processing 3/20
+2025-11-18 17:01:08,455 - INFO - Extracted: Bistro Kleinod
+2025-11-18 17:01:11,909 - INFO - Processing 4/20
+2025-11-18 17:01:15,244 - INFO - Extracted: Restaurant Scharf
+2025-11-18 17:01:17,333 - INFO - Processing 5/20
+2025-11-18 17:01:20,708 - INFO - Extracted: Bistro & Café Ivy
+2025-11-18 17:01:22,732 - INFO - Processing 6/20
+2025-11-18 17:01:26,939 - INFO - Extracted: das BISTRO
+2025-11-18 17:01:29,830 - INFO - Processing 7/20
+2025-11-18 17:01:33,674 - INFO - Extracted: Pamola Bistro
+2025-11-18 17:01:36,649 - INFO - Processing 8/20
+2025-11-18 17:01:40,222 - INFO - Extracted: Butterbrot Café-Bistro
+2025-11-18 17:01:44,006 - INFO - Processing 9/20
+2025-11-18 17:01:47,365 - INFO - Extracted: Le Plat du Jour
+2025-11-18 17:01:51,305 - INFO - Processing 10/20
+2025-11-18 17:01:55,617 - INFO - Extracted: Hoi An Hamburg
+2025-11-18 17:01:58,776 - INFO - Processing 11/20
+2025-11-18 17:02:01,460 - INFO - Extracted: Buddha Kitchen
+2025-11-18 17:02:03,622 - INFO - Processing 12/20
+2025-11-18 17:02:06,704 - INFO - Extracted: Restaurant Caspari
+2025-11-18 17:02:08,889 - INFO - Processing 13/20
+2025-11-18 17:02:11,640 - INFO - Extracted: Bootshaus Grill & Bar - Hafencity
+2025-11-18 17:02:13,807 - INFO - Processing 14/20
+2025-11-18 17:02:18,020 - INFO - Extracted: Dong Tien Asia Bistro
+2025-11-18 17:02:20,775 - INFO - Processing 15/20
+2025-11-18 17:02:25,076 - INFO - Extracted: Bistro64
+2025-11-18 17:02:27,135 - INFO - Processing 16/20
+2025-11-18 17:02:31,357 - INFO - Extracted: Café-Bistro Bei Maria
+2025-11-18 17:02:34,104 - INFO - Processing 17/20
+2025-11-18 17:02:38,074 - INFO - Extracted: Bistro Carmagnole
+2025-11-18 17:02:42,069 - INFO - Processing 18/20
+2025-11-18 17:02:43,188 - ERROR - Error extracting place data: Message: element click intercepted: Element <a class="hfpxzc" aria-label="Helms Lounge" href="https://www.google.com/maps/place/Helms+Lounge/data=!4m7!3m6!1s0x47b191ae52e01447:0x363ba4f4b86b1ae3!8m2!3d53.45914!4d9.9772944!16s%2Fg%2F1tdc8w2y!19sChIJRxTgUq6RsUcR4xpruPSkOzY?authuser=0&amp;hl=de&amp;rclk=1" jsaction="pane.wfvdle91;focus:pane.wfvdle91;blur:pane.wfvdle91;auxclick:pane.wfvdle91;keydown:pane.wfvdle91;clickmod:pane.wfvdle91" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3amZ6SlhiZ2YyUUF4VzZSUEVESFJya0hmNFE4QmNJa3dZb0dRIixudWxsLDE1XQ=="></a> is not clickable at point (201, 842). Other element would receive the click: <button class="e2moi" jsaction="pane.wfvdle46; keydown:pane.wfvdle46; mouseover:pane.wfvdle46; mouseout:pane.wfvdle46;keydown:ripple.nested;mousedown:ripple.nested;ptrdown:ripple.nested" jslog="133106; track:click;">...</button>
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6885aa235
+	0x7ff688302630
+	0x7ff6880916dd
+	0x7ff6880f24c9
+	0x7ff6880efe4e
+	0x7ff6880ecd71
+	0x7ff6880ebc10
+	0x7ff6880dd3a8
+	0x7ff688112b0a
+	0x7ff6880dcc36
+	0x7ff68813baba
+	0x7ff6880db0ed
+	0x7ff6880dbf63
+	0x7ff6885d5d60
+	0x7ff6885cfe8a
+	0x7ff6885f1005
+	0x7ff68831d71e
+	0x7ff688324e1f
+	0x7ff68830b7c4
+	0x7ff68830b97f
+	0x7ff6882f18e8
+	0x7ffce394e8d7
+	0x7ffce4b4c53c
+
+2025-11-18 17:02:46,483 - INFO - Processing 19/20
+2025-11-18 17:02:49,210 - INFO - Extracted: Banks Bistro Hamburg
+2025-11-18 17:02:51,531 - INFO - Processing 20/20
+2025-11-18 17:02:52,602 - ERROR - Error extracting place data: Message: element click intercepted: Element <a class="hfpxzc" aria-label="Brechtmanns Bistro" href="https://www.google.com/maps/place/Brechtmanns+Bistro/data=!4m7!3m6!1s0x47b188c794dfd077:0xccf4b5bb7c1986ce!8m2!3d53.5930678!4d9.9869222!16s%2Fg%2F11g6mr7yvx!19sChIJd9DflMeIsUcRzoYZfLu19Mw?authuser=0&amp;hl=de&amp;rclk=1" jsaction="pane.wfvdle98;focus:pane.wfvdle98;blur:pane.wfvdle98;auxclick:pane.wfvdle98;keydown:pane.wfvdle98;clickmod:pane.wfvdle98" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3amZ6SlhiZ2YyUUF4VzZSUEVESFJya0hmNFE4QmNJM2dZb0d3IixudWxsLDE3XQ=="></a> is not clickable at point (201, 842). Other element would receive the click: <button class="e2moi" jsaction="pane.wfvdle46; keydown:pane.wfvdle46; mouseover:pane.wfvdle46; mouseout:pane.wfvdle46;keydown:ripple.nested;mousedown:ripple.nested;ptrdown:ripple.nested" jslog="133106; track:click;">...</button>
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6885aa235
+	0x7ff688302630
+	0x7ff6880916dd
+	0x7ff6880f24c9
+	0x7ff6880efe4e
+	0x7ff6880ecd71
+	0x7ff6880ebc10
+	0x7ff6880dd3a8
+	0x7ff688112b0a
+	0x7ff6880dcc36
+	0x7ff68813baba
+	0x7ff6880db0ed
+	0x7ff6880dbf63
+	0x7ff6885d5d60
+	0x7ff6885cfe8a
+	0x7ff6885f1005
+	0x7ff68831d71e
+	0x7ff688324e1f
+	0x7ff68830b7c4
+	0x7ff68830b97f
+	0x7ff6882f18e8
+	0x7ffce394e8d7
+	0x7ffce4b4c53c
+
+2025-11-18 17:02:54,910 - INFO - Searching: imbiss in Hamburg, Germany
+2025-11-18 17:03:01,191 - INFO - Scrolling through results...
+2025-11-18 17:03:03,385 - INFO - Scroll 1/5 completed
+2025-11-18 17:03:05,510 - INFO - Scroll 2/5 completed
+2025-11-18 17:03:08,396 - INFO - Scroll 3/5 completed
+2025-11-18 17:03:12,251 - INFO - Scroll 4/5 completed
+2025-11-18 17:03:15,245 - INFO - Scroll 5/5 completed
+2025-11-18 17:03:15,258 - INFO - Found 43 places for 'imbiss' in Hamburg
+2025-11-18 17:03:15,258 - INFO - Processing 1/20
+2025-11-18 17:03:19,614 - INFO - Extracted: Madame Mai Hamburg
+2025-11-18 17:03:21,635 - INFO - Processing 2/20
+2025-11-18 17:03:24,657 - INFO - Extracted: Gastwerk Hotel Hamburg
+2025-11-18 17:03:28,093 - INFO - Processing 3/20
+2025-11-18 17:03:31,893 - INFO - Extracted: Döner Connection
+2025-11-18 17:03:35,442 - INFO - Processing 4/20
+2025-11-18 17:03:43,502 - INFO - Processing 5/20
+2025-11-18 17:03:47,414 - INFO - Extracted: Hatay Grill Imbiss
+2025-11-18 17:03:49,700 - INFO - Processing 6/20
+2025-11-18 17:03:53,820 - INFO - Extracted: Bruzzelhütte
+2025-11-18 17:03:55,985 - INFO - Processing 7/20
+2025-11-18 17:04:00,431 - INFO - Extracted: bigbitegyros
+2025-11-18 17:04:02,671 - INFO - Processing 8/20
+2025-11-18 17:04:05,688 - INFO - Extracted: Paros Grill
+2025-11-18 17:04:07,851 - INFO - Processing 9/20
+2025-11-18 17:04:11,932 - INFO - Extracted: Imbiss bei Schorsch
+2025-11-18 17:04:15,871 - INFO - Processing 10/20
+2025-11-18 17:04:18,545 - INFO - Extracted: Imbiß Kutscherstube Frühstücksangebot & Mittagstisch
+2025-11-18 17:04:21,184 - INFO - Processing 11/20
+2025-11-18 17:04:25,229 - INFO - Extracted: Wunder Döner
+2025-11-18 17:04:27,712 - INFO - Processing 12/20
+2025-11-18 17:04:31,130 - INFO - Extracted: LAZIZ Fried Chicken
+2025-11-18 17:04:34,398 - INFO - Processing 13/20
+2025-11-18 17:04:38,382 - INFO - Extracted: Schnellrestaurant "von-bis"
+2025-11-18 17:04:41,053 - INFO - Processing 14/20
+2025-11-18 17:04:44,691 - INFO - Extracted: Imbiss bei Schorsch das Original II GmbH
+2025-11-18 17:04:47,801 - INFO - Processing 15/20
+2025-11-18 17:04:50,398 - INFO - Extracted: Mina Imbiss (S-Bahnhof Wilhelmsburg)
+2025-11-18 17:04:54,254 - INFO - Processing 16/20
+2025-11-18 17:04:57,875 - INFO - Extracted: DönerQueen
+2025-11-18 17:05:01,541 - INFO - Processing 17/20
+2025-11-18 17:05:04,983 - INFO - Extracted: Alhayba Grillhaus
+2025-11-18 17:05:07,505 - INFO - Processing 18/20
+2025-11-18 17:05:08,592 - ERROR - Error extracting place data: Message: element click intercepted: Element <a class="hfpxzc" aria-label="Pause Eminönü" href="https://www.google.com/maps/place/Pause+Emin%C3%B6n%C3%BC/data=!4m7!3m6!1s0x47b18fb52da3f7cf:0x13eb730167439e10!8m2!3d53.5172344!4d9.9873845!16s%2Fg%2F1tgw8zm6!19sChIJz_ejLbWPsUcREJ5DZwFz6xM?authuser=0&amp;hl=de&amp;rclk=1" jsaction="pane.wfvdle92;focus:pane.wfvdle92;blur:pane.wfvdle92;auxclick:pane.wfvdle92;keydown:pane.wfvdle92;clickmod:pane.wfvdle92" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3aXd4ZFNmZ3YyUUF4Vy1RX0VESFRYQUNfa1E4QmNJdVFVb0dRIixudWxsLDE1XQ=="></a> is not clickable at point (201, 842). Other element would receive the click: <button class="e2moi" jsaction="pane.wfvdle45; keydown:pane.wfvdle45; mouseover:pane.wfvdle45; mouseout:pane.wfvdle45;keydown:ripple.nested;mousedown:ripple.nested;ptrdown:ripple.nested" jslog="133106; track:click;">...</button>
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6885aa235
+	0x7ff688302630
+	0x7ff6880916dd
+	0x7ff6880f24c9
+	0x7ff6880efe4e
+	0x7ff6880ecd71
+	0x7ff6880ebc10
+	0x7ff6880dd3a8
+	0x7ff688112b0a
+	0x7ff6880dcc36
+	0x7ff68813baba
+	0x7ff6880db0ed
+	0x7ff6880dbf63
+	0x7ff6885d5d60
+	0x7ff6885cfe8a
+	0x7ff6885f1005
+	0x7ff68831d71e
+	0x7ff688324e1f
+	0x7ff68830b7c4
+	0x7ff68830b97f
+	0x7ff6882f18e8
+	0x7ffce394e8d7
+	0x7ffce4b4c53c
+
+2025-11-18 17:05:12,369 - INFO - Processing 19/20
+2025-11-18 17:05:16,105 - INFO - Extracted: Neustädter Grill Meier
+2025-11-18 17:05:18,984 - INFO - Processing 20/20
+2025-11-18 17:05:20,050 - ERROR - Error extracting place data: Message: element click intercepted: Element <a class="hfpxzc" aria-label="Kleine Pause" href="https://www.google.com/maps/place/Kleine+Pause/data=!4m7!3m6!1s0x47b18f6eb75c185f:0x89d6129cc42569a5!8m2!3d53.5548344!4d9.9623151!16s%2Fg%2F1tft_lvf!19sChIJXxhct26PsUcRpWklxJwS1ok?authuser=0&amp;hl=de&amp;rclk=1" jsaction="pane.wfvdle98;focus:pane.wfvdle98;blur:pane.wfvdle98;auxclick:pane.wfvdle98;keydown:pane.wfvdle98;clickmod:pane.wfvdle98" jslog="12690;track:click,contextmenu;mutable:true;metadata:WyIwYWhVS0V3aXd4ZFNmZ3YyUUF4Vy1RX0VESFRYQUNfa1E4QmNJaUFZb0d3IixudWxsLDE3XQ=="></a> is not clickable at point (201, 842). Other element would receive the click: <button class="e2moi" jsaction="pane.wfvdle45; keydown:pane.wfvdle45; mouseover:pane.wfvdle45; mouseout:pane.wfvdle45;keydown:ripple.nested;mousedown:ripple.nested;ptrdown:ripple.nested" jslog="133106; track:click;">...</button>
+  (Session info: chrome=142.0.7444.175); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6885aa235
+	0x7ff688302630
+	0x7ff6880916dd
+	0x7ff6880f24c9
+	0x7ff6880efe4e
+	0x7ff6880ecd71
+	0x7ff6880ebc10
+	0x7ff6880dd3a8
+	0x7ff688112b0a
+	0x7ff6880dcc36
+	0x7ff68813baba
+	0x7ff6880db0ed
+	0x7ff6880dbf63
+	0x7ff6885d5d60
+	0x7ff6885cfe8a
+	0x7ff6885f1005
+	0x7ff68831d71e
+	0x7ff688324e1f
+	0x7ff68830b7c4
+	0x7ff68830b97f
+	0x7ff6882f18e8
+	0x7ffce394e8d7
+	0x7ffce4b4c53c
+
+2025-11-18 17:05:22,531 - INFO - Saved 91 records to hamburg_results_20251118_170522.csv
+2025-11-18 17:05:22,532 - INFO - Completed Hamburg. Taking a break...
+2025-11-18 17:06:01,323 - INFO - Saved 91 records to all_results_20251118_170601.csv
+2025-11-18 17:06:04,309 - INFO - Saved 91 records to all_results_20251118_170601.xlsx
+2025-11-18 17:06:04,310 - INFO - 
+==================================================
+2025-11-18 17:06:04,310 - INFO - Scraping completed! Total records: 91
+2025-11-18 17:06:04,310 - INFO - ==================================================
