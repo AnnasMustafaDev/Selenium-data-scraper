@@ -5,7 +5,7 @@ A Python-based web scraper for extracting restaurant and food establishment data
 ## Features
 
 - 🎯 Scrapes restaurants, cafes, and food establishments
-- 🇩🇪 Configured for German cities (Berlin, Leipzig, Hamburg)
+- 🇩🇪 Configured for German cities (Berlin, Leipzig, Hamburg etc.)
 - 📊 Exports data to CSV and Excel formats
 - 🤖 Natural scraping behavior to avoid detection
 - 📝 Detailed logging
@@ -28,7 +28,7 @@ The scraper collects the following information:
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.9 or higher
 - Google Chrome browser installed
 - ChromeDriver (will be managed automatically)
 
