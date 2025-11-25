@@ -431,7 +431,11 @@ class GoogleMapsScraper:
 
 def main():
     # Configuration
+<<<<<<< HEAD
     cities = ['Berlin', 'Leipzig', 'Hamburg']
+=======
+    cities = ['Hamburg']
+>>>>>>> 7c2e2a57faca1c5180fab558e43de8cedd25991a
     queries = [
         'restaurant',
         'cafe',
