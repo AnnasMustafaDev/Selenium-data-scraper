@@ -1,6 +1,6 @@
 # Google Maps Restaurant Scraper
 
-A Python-based web scraper for extracting restaurant and food establishment data from Google Maps in German cities.
+A Python-based web scraper for extracting restaurant and food establishment data from Google in German cities.
 
 ## Features
 
